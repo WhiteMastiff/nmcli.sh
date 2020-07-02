@@ -1,0 +1,1 @@
+# nmcli.sh
